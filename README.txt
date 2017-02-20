@@ -1,3 +1,5 @@
+WARNING: ARDUINO CODE HAS NOT BEEN TESTED! ADDED FOR ACCESS AND TESTING
+
 Main control systems folder (Control in new git, ControlSystems in old git)
 	(NOTE: all the .cpp files for the .h files are in the src folder!)
 
